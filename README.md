@@ -1,4 +1,4 @@
-# Industrial Surface Anomaly Inspection Using Deep Learning
+# Industrial Surface Anomaly Inspection Using Machine Learning
 
 ## Course
 Image Processing Laboratory
